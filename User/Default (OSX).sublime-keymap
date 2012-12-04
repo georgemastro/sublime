@@ -1,0 +1,9 @@
+[
+  { "keys": ["super+shift+u"], "command": "sftp_upload_file" },
+  { "keys": ["super+shift+d"], "command": "sftp_download_file" },
+  { "keys": ["ctrl+d"], "command": "duplicate_line" },
+  { "keys": ["ctrl+super+a"], "command": "goto_drupalapi"},
+  { "keys": ["ctrl+shift+h"], "command": "goto_documentation" },
+  { "keys": ["ctrl+shift+t"], "command": "open_terminal" },
+  { "keys": ["super+shift+j"], "command": "join_lines" }
+]
