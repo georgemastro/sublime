@@ -10,7 +10,7 @@
 			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
 		}
 	],
-	"color_scheme": "Packages/Color Scheme - Default/GitHub2.tmTheme",
+	"color_scheme": "Packages/Obsidian Color Scheme/Obsidian.tmTheme",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": false,
 	"display_slow_plugins": "false",
@@ -27,8 +27,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"CSS"
+		"Vintage"
 	],
 	"quote_enable": false,
 	"round_enable": false,
